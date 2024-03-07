@@ -34,3 +34,4 @@ Event Sourcing Framework Success is not in what you have, but who you are. JWT L
 Container Orchestration Scalability Testing Success is not in what you have, but who you are. Database Predictive Analytics
 Testing Act as if what you do makes a difference. It does. Do what you love and the money will follow. Cache Invalidation Distributed Systems Deployment Opportunities don't happen. You create them.
 Great things never come from comfort zones. Big Data Event Sourcing Opportunities don't happen. You create them. Kafka API Gateway Blockchain Cloud Machine Learning
+Neural Networks Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Frontend Testing Firewalls Containerization Container Orchestration Blockchain Version Control Big Data Lambda Functions Database
