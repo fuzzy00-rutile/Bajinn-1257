@@ -23,3 +23,4 @@ The only way to do great work is to love what you do. Dream big and dare to fail
 If you can dream it, you can do it. Data Pipeline Simplicity is the ultimate sophistication. API Microservices To be the best, you must be able to handle the worst. Cloud Functions Database Indexing Latency Optimization Scalability Python
 DevOps Container Orchestration Automation Algorithm Opportunities don't happen. You create them. Code Review React A/B Testing Dream big and dare to fail. Data Science Replica Set Artificial Intelligence Docker Event Sourcing Cloud
 Don't be afraid to give up the good to go for the great. DNS Routing Testing Microservices Automation Docker Database Message Queue NLP
+Work hard in silence, let your success be your noise. Event Sourcing React Optimization DevOps OAuth Container Orchestration The only way to do great work is to love what you do. Content Delivery Network Stay hungry, stay foolish. Version Control

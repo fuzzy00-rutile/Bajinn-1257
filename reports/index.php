@@ -25,3 +25,4 @@ Scalability Machine Learning Framework Kafka Logging GraphQL Sharding DevOps Qua
 Backend Automation Serverless CI/CD Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Testing
 React Deployment Neural Networks DevOps Lambda Functions Cache Invalidation Multi-threading Big Data I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Framework DNS Routing Content Delivery Network Code Review
 Virtual Machines Firewalls A/B Testing Database Indexing Data Pipeline Content Delivery Network Happiness is not something ready made. It comes from your own actions.
+The only way to do great work is to love what you do. Framework Backend Load Balancing Event-driven Architecture Cache Invalidation Sharding Artificial Intelligence Parallel Processing Containerization JavaScript Quantum Computing
