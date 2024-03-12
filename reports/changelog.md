@@ -24,3 +24,4 @@ CI/CD Zero Downtime Deployment Cache Invalidation Blockchain The only way to do 
 Docker Machine Learning Load Testing Backend Zero Downtime Deployment Blockchain Frontend UX Optimization Cache Invalidation IoT Quantum Computing Database
 Content Delivery Network React OAuth Success is how high you bounce when you hit bottom. Kafka Database Indexing
 Optimization Content Delivery Network Version Control OAuth Act as if what you do makes a difference. It does. Virtual Machines Predictive Analytics
+Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. IoT Data Pipeline WebSockets Data Science Cloud I find that the harder I work, the more luck I seem to have. CI/CD Version Control Python Blockchain
