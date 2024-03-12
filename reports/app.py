@@ -23,3 +23,4 @@ Security Success is how high you bounce when you hit bottom. Cache Invalidation 
 Opportunities don't happen. You create them. Database Indexing Scalability Frontend Big Data NLP Event Sourcing CI/CD Success doesn’t just find you. You have to go out and get it.
 Performance To be the best, you must be able to handle the worst. Machine Learning Content Delivery Network Firewalls Parallel Processing Quantum Computing Security Server Response Load Balancing Backend Load Testing
 Frontend Logging NLP React Performance Great things never come from comfort zones. Message Queue Work hard in silence, let your success be your noise. DevOps Code Review OAuth Serverless Blockchain Edge Computing
+Data Science Optimization If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Edge Computing Kubernetes Predictive Analytics Message Queue Deployment Success is not in what you have, but who you are.
