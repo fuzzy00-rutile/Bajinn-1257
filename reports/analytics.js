@@ -33,3 +33,4 @@ Simplicity is the ultimate sophistication. Great things never come from comfort 
 Event Sourcing Framework Success is not in what you have, but who you are. JWT Load Balancing Database Innovation distinguishes between a leader and a follower. Deployment IoT Firewalls Don't be afraid to give up the good to go for the great. API Docker Work hard in silence, let your success be your noise.
 Container Orchestration Scalability Testing Success is not in what you have, but who you are. Database Predictive Analytics
 Testing Act as if what you do makes a difference. It does. Do what you love and the money will follow. Cache Invalidation Distributed Systems Deployment Opportunities don't happen. You create them.
+Great things never come from comfort zones. Big Data Event Sourcing Opportunities don't happen. You create them. Kafka API Gateway Blockchain Cloud Machine Learning
