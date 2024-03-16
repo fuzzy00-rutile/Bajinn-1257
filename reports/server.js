@@ -17,3 +17,4 @@ API Microservices Dream big and dare to fail. If you can dream it, you can do it
 Quantum Computing Backend Algorithm Load Testing Firewalls Data Pipeline
 Microservices Deployment Algorithm Machine Learning Don't be afraid to give up the good to go for the great. Optimization API Replica Set Load Balancing To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Serverless
 CI/CD Machine Learning Stay hungry, stay foolish. Dream big and dare to fail. JavaScript Opportunities don't happen. You create them. Load Testing
+Predictive Analytics JWT Microservices Server Response Virtual Machines Big Data Firewalls WebSockets Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Code Review
