@@ -17,3 +17,4 @@ Monitoring Cloud Edge Computing Blockchain Big Data Server Response JWT RabbitMQ
 React Backend Logging Python Data Science IoT Security Testing Optimization Stay hungry, stay foolish.
 Load Testing Zero Downtime Deployment Containerization Blockchain Artificial Intelligence Security Success doesn’t just find you. You have to go out and get it. Algorithm Quantum Computing Kafka DevOps Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
 IoT Backend Python JavaScript NLP Replica Set Container Orchestration Server Response RabbitMQ Code Review Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Kubernetes
+API Gateway Zero Downtime Deployment CI/CD Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Message Queue Database Indexing Blockchain Event Sourcing A/B Testing Latency Optimization Data Pipeline Performance Cache Invalidation
