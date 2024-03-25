@@ -21,3 +21,4 @@ Parallel Processing API Database Data Science GraphQL
 Server Response Big Data Optimization Containerization Cache Invalidation
 Big Data Cloud Functions Backend Containerization Sharding
 If you can dream it, you can do it. IoT JWT Pull Request Machine Learning Container Orchestration Framework API Gateway Replica Set Latency Optimization
+JavaScript Predictive Analytics Artificial Intelligence Framework Latency Optimization Sharding
