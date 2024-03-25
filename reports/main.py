@@ -17,3 +17,4 @@ Version Control To be the best, you must be able to handle the worst. Algorithm 
 Database Event Sourcing Python Microservices Event-driven Architecture Containerization To be the best, you must be able to handle the worst. Message Queue Server Response Multi-threading Testing
 Success is not in what you have, but who you are. Docker RabbitMQ Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Cloud
 Serverless Event-driven Architecture Happiness is not something ready made. It comes from your own actions. WebSockets Docker IoT DevOps Algorithm GraphQL Success is not in what you have, but who you are. Testing Load Balancing Python Containerization Security
+API Gateway NLP Microservices Load Testing CI/CD DNS Routing UX Optimization Innovation distinguishes between a leader and a follower. Blockchain JavaScript WebSockets A/B Testing Stay hungry, stay foolish. Distributed Systems Python
