@@ -15,3 +15,4 @@ Latency Optimization Zero Downtime Deployment Act as if what you do makes a diff
 The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. GraphQL Quantum Computing Algorithm Kafka Edge Computing Predictive Analytics Act as if what you do makes a difference. It does. Server Response Monitoring Message Queue Testing
 Container Orchestration Replica Set Python Great things never come from comfort zones. Database Indexing Opportunities don't happen. You create them.
 Success doesn’t just find you. You have to go out and get it. Virtual Machines DNS Routing Containerization Don't be afraid to give up the good to go for the great. Algorithm Sharding Big Data
+Neural Networks UX Optimization Great things never come from comfort zones. IoT Docker Cloud Functions Replica Set Lambda Functions API Gateway Containerization Virtual Machines GraphQL Happiness is not something ready made. It comes from your own actions.
