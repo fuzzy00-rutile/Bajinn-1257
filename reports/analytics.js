@@ -30,3 +30,4 @@ Framework Load Testing Monitoring Data Science Kubernetes
 Innovation distinguishes between a leader and a follower. Event-driven Architecture Algorithm Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
 OAuth Microservices A/B Testing Security Version Control DNS Routing
 Simplicity is the ultimate sophistication. Great things never come from comfort zones. Agile RabbitMQ Deployment Kubernetes I find that the harder I work, the more luck I seem to have.
+Event Sourcing Framework Success is not in what you have, but who you are. JWT Load Balancing Database Innovation distinguishes between a leader and a follower. Deployment IoT Firewalls Don't be afraid to give up the good to go for the great. API Docker Work hard in silence, let your success be your noise.

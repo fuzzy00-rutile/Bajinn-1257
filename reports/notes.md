@@ -14,3 +14,4 @@ Blockchain Quantum Computing Predictive Analytics Message Queue Cache Invalidati
 Serverless To be the best, you must be able to handle the worst. Cache Invalidation Deployment Zero Downtime Deployment RabbitMQ
 Quantum Computing Performance Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. GraphQL Load Testing JWT Automation Data Pipeline Logging Load Balancing
 Multi-threading NLP Code Review A/B Testing I find that the harder I work, the more luck I seem to have. Version Control Serverless
+IoT WebSockets Security Monitoring Database
