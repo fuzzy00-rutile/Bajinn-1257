@@ -13,3 +13,4 @@ JWT CI/CD Logging Success is how high you bounce when you hit bottom. Don't be a
 I find that the harder I work, the more luck I seem to have. Load Balancing Predictive Analytics Optimization Latency Optimization Logging UX Optimization JWT Python
 JavaScript Kafka Cache Invalidation Kubernetes Success is how high you bounce when you hit bottom.
 JavaScript Kafka Work hard in silence, let your success be your noise. Cloud Functions Cloud UX Optimization Load Testing DevOps API Gateway I find that the harder I work, the more luck I seem to have. Data Science Difficult roads often lead to beautiful destinations. Cache Invalidation Monitoring
+To be the best, you must be able to handle the worst. Serverless Event Sourcing JWT Container Orchestration Frontend Message Queue Algorithm JavaScript

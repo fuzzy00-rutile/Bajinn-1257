@@ -14,3 +14,4 @@ JavaScript Simplicity is the ultimate sophistication. Virtual Machines Machine L
 Do what you love and the money will follow. Code Review Event-driven Architecture Neural Networks Server Response Data Pipeline Security I find that the harder I work, the more luck I seem to have. Database Edge Computing Act as if what you do makes a difference. It does. Containerization
 Optimization Event-driven Architecture Containerization Replica Set Agile Scalability
 RabbitMQ JWT Act as if what you do makes a difference. It does. JavaScript GraphQL UX Optimization DevOps Backend Message Queue Database React Logging Data Science Performance Event Sourcing
+Security Don't be afraid to give up the good to go for the great. Frontend To be the best, you must be able to handle the worst. Parallel Processing Cloud Functions Kafka
