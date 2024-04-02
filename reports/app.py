@@ -21,3 +21,4 @@ Event-driven Architecture IoT Containerization Do what you love and the money wi
 JavaScript Firewalls Container Orchestration Do what you love and the money will follow. Testing Artificial Intelligence API Opportunities don't happen. You create them. UX Optimization Success doesn’t just find you. You have to go out and get it.
 Security Success is how high you bounce when you hit bottom. Cache Invalidation Containerization Docker JavaScript Framework IoT Monitoring React Don't be afraid to give up the good to go for the great. Performance Latency Optimization
 Opportunities don't happen. You create them. Database Indexing Scalability Frontend Big Data NLP Event Sourcing CI/CD Success doesn’t just find you. You have to go out and get it.
+Performance To be the best, you must be able to handle the worst. Machine Learning Content Delivery Network Firewalls Parallel Processing Quantum Computing Security Server Response Load Balancing Backend Load Testing

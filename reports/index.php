@@ -23,3 +23,4 @@ IoT Virtual Machines Don't be afraid to give up the good to go for the great. Py
 GraphQL Database Indexing Logging Load Balancing Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Frontend CI/CD Deployment Data Science Cloud Parallel Processing
 Scalability Machine Learning Framework Kafka Logging GraphQL Sharding DevOps Quantum Computing Optimization JavaScript Stay hungry, stay foolish. JWT
 Backend Automation Serverless CI/CD Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Testing
+React Deployment Neural Networks DevOps Lambda Functions Cache Invalidation Multi-threading Big Data I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Framework DNS Routing Content Delivery Network Code Review
