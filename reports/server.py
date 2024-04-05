@@ -16,3 +16,4 @@ GraphQL Great things never come from comfort zones. RabbitMQ API Code Review Pul
 Monitoring Cloud Edge Computing Blockchain Big Data Server Response JWT RabbitMQ Security Parallel Processing Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. IoT
 React Backend Logging Python Data Science IoT Security Testing Optimization Stay hungry, stay foolish.
 Load Testing Zero Downtime Deployment Containerization Blockchain Artificial Intelligence Security Success doesn’t just find you. You have to go out and get it. Algorithm Quantum Computing Kafka DevOps Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
+IoT Backend Python JavaScript NLP Replica Set Container Orchestration Server Response RabbitMQ Code Review Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Kubernetes
