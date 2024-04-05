@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. IoT Content Delivery Network Frontend
 DevOps Firewalls Virtual Machines Docker Cloud
 Logging Edge Computing I find that the harder I work, the more luck I seem to have. DevOps Sharding Multi-threading Success usually comes to those who are too busy to be looking for it. Cloud Functions React Docker Load Balancing JWT Serverless Automation Firewalls
 DevOps Great things never come from comfort zones. WebSockets Event-driven Architecture Code Review API Gateway Success usually comes to those who are too busy to be looking for it. Container Orchestration NLP Kubernetes Blockchain Containerization Agile Serverless Logging
+To be the best, you must be able to handle the worst. Server Response Database Indexing Load Testing Innovation distinguishes between a leader and a follower. DNS Routing JWT Cache Invalidation
