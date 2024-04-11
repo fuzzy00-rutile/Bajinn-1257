@@ -29,3 +29,4 @@ Data Pipeline CI/CD IoT Happiness is not something ready made. It comes from you
 Framework Load Testing Monitoring Data Science Kubernetes
 Innovation distinguishes between a leader and a follower. Event-driven Architecture Algorithm Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
 OAuth Microservices A/B Testing Security Version Control DNS Routing
+Simplicity is the ultimate sophistication. Great things never come from comfort zones. Agile RabbitMQ Deployment Kubernetes I find that the harder I work, the more luck I seem to have.
