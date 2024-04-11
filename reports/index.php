@@ -21,3 +21,4 @@ Do what you love and the money will follow. Load Testing Blockchain Monitoring L
 Dream big and dare to fail. WebSockets Cloud If you can dream it, you can do it. Distributed Systems DevOps Opportunities don't happen. You create them. Version Control Python JavaScript Great things never come from comfort zones. Blockchain
 IoT Virtual Machines Don't be afraid to give up the good to go for the great. Python Replica Set Sharding Kafka JWT UX Optimization Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions.
 GraphQL Database Indexing Logging Load Balancing Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Frontend CI/CD Deployment Data Science Cloud Parallel Processing
+Scalability Machine Learning Framework Kafka Logging GraphQL Sharding DevOps Quantum Computing Optimization JavaScript Stay hungry, stay foolish. JWT

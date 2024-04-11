@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. Do what you love a
 Happiness is not something ready made. It comes from your own actions. Latency Optimization Message Queue Deployment Data Science Code Review WebSockets Automation Stay hungry, stay foolish. API A/B Testing
 Innovation distinguishes between a leader and a follower. JavaScript Parallel Processing Difficult roads often lead to beautiful destinations. NLP
 Success usually comes to those who are too busy to be looking for it. Containerization Zero Downtime Deployment Database Indexing Blockchain Backend
+Scalability Event Sourcing Pull Request Distributed Systems Docker GraphQL Don't be afraid to give up the good to go for the great.
