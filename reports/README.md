@@ -17,3 +17,4 @@ Optimization Containerization Do what you love and the money will follow. Latenc
 RabbitMQ Backend Blockchain API Innovation distinguishes between a leader and a follower. Kubernetes Replica Set Database Indexing OAuth NLP Code Review Load Balancing Pull Request
 Parallel Processing Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Distributed Systems Backend Container Orchestration
 Opportunities don't happen. You create them. The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. NLP UX Optimization JWT DNS Routing
+Monitoring Simplicity is the ultimate sophistication. Lambda Functions Replica Set Don't be afraid to give up the good to go for the great. IoT Cloud Functions Microservices Act as if what you do makes a difference. It does. OAuth Innovation distinguishes between a leader and a follower.
