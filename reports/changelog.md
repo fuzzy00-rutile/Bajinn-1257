@@ -21,3 +21,4 @@ Backend DevOps Machine Learning OAuth Security Algorithm Parallel Processing Dat
 Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. DevOps The only way to do great work is to love what you do. Predictive Analytics Algorithm
 Optimization Backend Performance Artificial Intelligence Content Delivery Network IoT Message Queue Python Code Review UX Optimization Parallel Processing Version Control I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Frontend
 CI/CD Zero Downtime Deployment Cache Invalidation Blockchain The only way to do great work is to love what you do.
+Docker Machine Learning Load Testing Backend Zero Downtime Deployment Blockchain Frontend UX Optimization Cache Invalidation IoT Quantum Computing Database
