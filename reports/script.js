@@ -11,3 +11,4 @@ Database Indexing Big Data Artificial Intelligence Message Queue Sharding Algori
 Happiness is not something ready made. It comes from your own actions. Testing Cache Invalidation Pull Request Firewalls NLP Zero Downtime Deployment Dream big and dare to fail. Docker Framework Latency Optimization Success is how high you bounce when you hit bottom. A/B Testing Kubernetes
 Replica Set Content Delivery Network Cache Invalidation Version Control Cloud DNS Routing Frontend UX Optimization
 JavaScript Simplicity is the ultimate sophistication. Virtual Machines Machine Learning Docker
+Do what you love and the money will follow. Code Review Event-driven Architecture Neural Networks Server Response Data Pipeline Security I find that the harder I work, the more luck I seem to have. Database Edge Computing Act as if what you do makes a difference. It does. Containerization
