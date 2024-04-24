@@ -15,3 +15,4 @@ Happiness is not something ready made. It comes from your own actions. React Edg
 Predictive Analytics Machine Learning UX Optimization Distributed Systems Event-driven Architecture Microservices Artificial Intelligence Quantum Computing React Data Science Zero Downtime Deployment
 Version Control To be the best, you must be able to handle the worst. Algorithm Cloud Functions Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Blockchain Artificial Intelligence Big Data Monitoring Load Balancing
 Database Event Sourcing Python Microservices Event-driven Architecture Containerization To be the best, you must be able to handle the worst. Message Queue Server Response Multi-threading Testing
+Success is not in what you have, but who you are. Docker RabbitMQ Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Cloud
