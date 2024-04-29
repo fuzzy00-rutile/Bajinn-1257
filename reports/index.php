@@ -18,3 +18,4 @@ Cache Invalidation Act as if what you do makes a difference. It does. Performanc
 Load Testing Distributed Systems Content Delivery Network Neural Networks DNS Routing Docker Server Response Parallel Processing Algorithm Load Balancing Database Indexing Logging Event Sourcing If you can dream it, you can do it. IoT
 Docker Frontend DevOps Version Control If you can dream it, you can do it. Virtual Machines The only way to do great work is to love what you do. WebSockets Code Review NLP Monitoring
 Do what you love and the money will follow. Load Testing Blockchain Monitoring Latency Optimization CI/CD Parallel Processing Success usually comes to those who are too busy to be looking for it. Code Review IoT Testing
+Dream big and dare to fail. WebSockets Cloud If you can dream it, you can do it. Distributed Systems DevOps Opportunities don't happen. You create them. Version Control Python JavaScript Great things never come from comfort zones. Blockchain
