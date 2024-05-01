@@ -11,3 +11,4 @@ Framework Frontend To be the best, you must be able to handle the worst. GraphQL
 Act as if what you do makes a difference. It does. Dream big and dare to fail. To be the best, you must be able to handle the worst. Data Science Docker Agile Backend Success doesn’t just find you. You have to go out and get it. Performance Quantum Computing OAuth
 JWT CI/CD Logging Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great.
 I find that the harder I work, the more luck I seem to have. Load Balancing Predictive Analytics Optimization Latency Optimization Logging UX Optimization JWT Python
+JavaScript Kafka Cache Invalidation Kubernetes Success is how high you bounce when you hit bottom.
