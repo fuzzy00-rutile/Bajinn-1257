@@ -14,3 +14,4 @@ Testing Security Data Pipeline Neural Networks Big Data GraphQL IoT Happiness is
 Database Indexing Performance Big Data Logging Artificial Intelligence Cloud Functions API Stay hungry, stay foolish. Container Orchestration OAuth GraphQL
 Cloud Monitoring Frontend A/B Testing Success usually comes to those who are too busy to be looking for it.
 API Microservices Dream big and dare to fail. If you can dream it, you can do it. Stay hungry, stay foolish. Docker Deployment I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. CI/CD
+Quantum Computing Backend Algorithm Load Testing Firewalls Data Pipeline

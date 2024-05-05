@@ -11,3 +11,4 @@ Data Pipeline WebSockets Lambda Functions Testing Machine Learning Firewalls Dre
 Do what you love and the money will follow. Edge Computing Code Review IoT Container Orchestration JavaScript Firewalls Containerization Data Pipeline
 Edge Computing Database Python Deployment GraphQL UX Optimization Logging React Act as if what you do makes a difference. It does. Parallel Processing Success doesn’t just find you. You have to go out and get it. Replica Set Machine Learning A/B Testing
 Load Balancing Difficult roads often lead to beautiful destinations. Database Security UX Optimization
+Latency Optimization Zero Downtime Deployment Act as if what you do makes a difference. It does. Data Science Cache Invalidation
