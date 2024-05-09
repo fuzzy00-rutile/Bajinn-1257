@@ -26,3 +26,4 @@ Act as if what you do makes a difference. It does. Code Review Deployment Neural
 WebSockets Kubernetes CI/CD Machine Learning Container Orchestration Success is not in what you have, but who you are. DNS Routing Scalability Framework JWT Server Response Distributed Systems Microservices Python OAuth
 Latency Optimization Testing Framework Data Pipeline Message Queue Python Quantum Computing Code Review To be the best, you must be able to handle the worst.
 Data Pipeline CI/CD IoT Happiness is not something ready made. It comes from your own actions. Event Sourcing
+Framework Load Testing Monitoring Data Science Kubernetes
