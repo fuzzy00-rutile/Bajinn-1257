@@ -19,3 +19,4 @@ Happiness is not something ready made. It comes from your own actions. Database 
 Algorithm OAuth Cloud UX Optimization React Scalability Server Response Success is how high you bounce when you hit bottom. Multi-threading Security A/B Testing Frontend Pull Request
 Backend DevOps Machine Learning OAuth Security Algorithm Parallel Processing Database Indexing
 Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. DevOps The only way to do great work is to love what you do. Predictive Analytics Algorithm
+Optimization Backend Performance Artificial Intelligence Content Delivery Network IoT Message Queue Python Code Review UX Optimization Parallel Processing Version Control I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Frontend
