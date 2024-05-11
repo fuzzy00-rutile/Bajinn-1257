@@ -13,3 +13,4 @@ API Gateway Multi-threading Success usually comes to those who are too busy to b
 RabbitMQ JWT Do what you love and the money will follow. Monitoring WebSockets Cloud Container Orchestration Zero Downtime Deployment Database Predictive Analytics Latency Optimization Docker
 Happiness is not something ready made. It comes from your own actions. React Edge Computing Big Data Load Balancing Docker Data Pipeline
 Predictive Analytics Machine Learning UX Optimization Distributed Systems Event-driven Architecture Microservices Artificial Intelligence Quantum Computing React Data Science Zero Downtime Deployment
+Version Control To be the best, you must be able to handle the worst. Algorithm Cloud Functions Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Blockchain Artificial Intelligence Big Data Monitoring Load Balancing
