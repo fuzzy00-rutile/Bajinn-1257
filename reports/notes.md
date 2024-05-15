@@ -11,3 +11,4 @@ Deployment Security UX Optimization Latency Optimization Docker Act as if what y
 The only way to do great work is to love what you do. IoT Version Control Frontend Framework Replica Set Success doesn’t just find you. You have to go out and get it. Neural Networks
 Load Balancing API React Cache Invalidation Don't be afraid to give up the good to go for the great.
 Blockchain Quantum Computing Predictive Analytics Message Queue Cache Invalidation Artificial Intelligence Zero Downtime Deployment Multi-threading
+Serverless To be the best, you must be able to handle the worst. Cache Invalidation Deployment Zero Downtime Deployment RabbitMQ
