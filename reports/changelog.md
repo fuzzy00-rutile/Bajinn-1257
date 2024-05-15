@@ -18,3 +18,4 @@ Docker Success is not in what you have, but who you are. Success is how high you
 Happiness is not something ready made. It comes from your own actions. Database Indexing Containerization Code Review Scalability Docker Sharding JWT Algorithm Python RabbitMQ
 Algorithm OAuth Cloud UX Optimization React Scalability Server Response Success is how high you bounce when you hit bottom. Multi-threading Security A/B Testing Frontend Pull Request
 Backend DevOps Machine Learning OAuth Security Algorithm Parallel Processing Database Indexing
+Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. DevOps The only way to do great work is to love what you do. Predictive Analytics Algorithm
