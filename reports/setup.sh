@@ -14,3 +14,4 @@ IoT Replica Set Load Balancing Happiness is not something ready made. It comes f
 Code Review Sharding Load Balancing API Big Data React Simplicity is the ultimate sophistication. Quantum Computing NLP Edge Computing
 Work hard in silence, let your success be your noise. Cloud Data Pipeline Multi-threading If you can dream it, you can do it. Monitoring Event-driven Architecture Act as if what you do makes a difference. It does.
 Server Response Parallel Processing Innovation distinguishes between a leader and a follower. JWT Success is not in what you have, but who you are. Content Delivery Network Kubernetes Predictive Analytics Serverless Simplicity is the ultimate sophistication. Backend Great things never come from comfort zones. Cache Invalidation Pull Request Do what you love and the money will follow.
+Automation Distributed Systems Load Testing API Gateway Content Delivery Network Monitoring
