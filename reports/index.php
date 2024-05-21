@@ -16,3 +16,4 @@ IoT Virtual Machines Artificial Intelligence Python Load Balancing Difficult roa
 Server Response Content Delivery Network Event Sourcing React Multi-threading Firewalls To be the best, you must be able to handle the worst. API
 Cache Invalidation Act as if what you do makes a difference. It does. Performance React Opportunities don't happen. You create them. Monitoring Success is not in what you have, but who you are. Data Pipeline Virtual Machines Logging Docker WebSockets Serverless
 Load Testing Distributed Systems Content Delivery Network Neural Networks DNS Routing Docker Server Response Parallel Processing Algorithm Load Balancing Database Indexing Logging Event Sourcing If you can dream it, you can do it. IoT
+Docker Frontend DevOps Version Control If you can dream it, you can do it. Virtual Machines The only way to do great work is to love what you do. WebSockets Code Review NLP Monitoring

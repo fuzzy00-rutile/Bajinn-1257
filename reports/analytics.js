@@ -24,3 +24,4 @@ Event-driven Architecture Don't be afraid to give up the good to go for the grea
 Data Pipeline Frontend Algorithm If you can dream it, you can do it. Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Serverless
 Act as if what you do makes a difference. It does. Code Review Deployment Neural Networks Work hard in silence, let your success be your noise. Framework JWT Pull Request Parallel Processing Dream big and dare to fail. Zero Downtime Deployment Serverless
 WebSockets Kubernetes CI/CD Machine Learning Container Orchestration Success is not in what you have, but who you are. DNS Routing Scalability Framework JWT Server Response Distributed Systems Microservices Python OAuth
+Latency Optimization Testing Framework Data Pipeline Message Queue Python Quantum Computing Code Review To be the best, you must be able to handle the worst.
