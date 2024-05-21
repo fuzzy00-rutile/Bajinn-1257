@@ -9,3 +9,4 @@ Great things never come from comfort zones. Distributed Systems Stay hungry, sta
 Docker Microservices Sharding Frontend I find that the harder I work, the more luck I seem to have. Lambda Functions Parallel Processing
 Deployment Security UX Optimization Latency Optimization Docker Act as if what you do makes a difference. It does.
 The only way to do great work is to love what you do. IoT Version Control Frontend Framework Replica Set Success doesn’t just find you. You have to go out and get it. Neural Networks
+Load Balancing API React Cache Invalidation Don't be afraid to give up the good to go for the great.
