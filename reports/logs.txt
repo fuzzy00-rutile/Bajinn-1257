@@ -19,3 +19,4 @@ Virtual Machines Performance Replica Set API JWT Serverless React Big Data JavaS
 Blockchain Performance WebSockets Event-driven Architecture Stay hungry, stay foolish.
 CI/CD Replica Set Optimization Work hard in silence, let your success be your noise. Event Sourcing
 Don't be afraid to give up the good to go for the great. Python If you can dream it, you can do it. Load Balancing Opportunities don't happen. You create them. Blockchain Virtual Machines Data Pipeline Multi-threading React
+Logging To be the best, you must be able to handle the worst. Version Control Quantum Computing Performance Opportunities don't happen. You create them. JavaScript Dream big and dare to fail. Backend Monitoring
