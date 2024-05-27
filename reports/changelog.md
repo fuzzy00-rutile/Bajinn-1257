@@ -17,3 +17,4 @@ The only way to do great work is to love what you do. Machine Learning Quantum C
 Docker Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Code Review Agile Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Kafka Database Indexing Opportunities don't happen. You create them. NLP
 Happiness is not something ready made. It comes from your own actions. Database Indexing Containerization Code Review Scalability Docker Sharding JWT Algorithm Python RabbitMQ
 Algorithm OAuth Cloud UX Optimization React Scalability Server Response Success is how high you bounce when you hit bottom. Multi-threading Security A/B Testing Frontend Pull Request
+Backend DevOps Machine Learning OAuth Security Algorithm Parallel Processing Database Indexing
