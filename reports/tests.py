@@ -9,3 +9,4 @@ Serverless Docker Success usually comes to those who are too busy to be looking 
 Blockchain Zero Downtime Deployment Microservices Stay hungry, stay foolish. NLP API Gateway DevOps Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Kafka Performance
 Data Pipeline WebSockets Lambda Functions Testing Machine Learning Firewalls Dream big and dare to fail. Framework Great things never come from comfort zones. Cache Invalidation
 Do what you love and the money will follow. Edge Computing Code Review IoT Container Orchestration JavaScript Firewalls Containerization Data Pipeline
+Edge Computing Database Python Deployment GraphQL UX Optimization Logging React Act as if what you do makes a difference. It does. Parallel Processing Success doesn’t just find you. You have to go out and get it. Replica Set Machine Learning A/B Testing
