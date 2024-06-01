@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Data Science Version Contr
 Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Containerization
 IoT Replica Set Load Balancing Happiness is not something ready made. It comes from your own actions. React Latency Optimization Data Science Code Review Predictive Analytics OAuth Monitoring Version Control Machine Learning Blockchain
 Code Review Sharding Load Balancing API Big Data React Simplicity is the ultimate sophistication. Quantum Computing NLP Edge Computing
+Work hard in silence, let your success be your noise. Cloud Data Pipeline Multi-threading If you can dream it, you can do it. Monitoring Event-driven Architecture Act as if what you do makes a difference. It does.
