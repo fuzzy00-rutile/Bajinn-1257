@@ -13,3 +13,4 @@ Cache Invalidation Backend Logging Load Balancing Frontend Cloud Functions DNS R
 Testing Security Data Pipeline Neural Networks Big Data GraphQL IoT Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Cloud RabbitMQ Innovation distinguishes between a leader and a follower. Firewalls
 Database Indexing Performance Big Data Logging Artificial Intelligence Cloud Functions API Stay hungry, stay foolish. Container Orchestration OAuth GraphQL
 Cloud Monitoring Frontend A/B Testing Success usually comes to those who are too busy to be looking for it.
+API Microservices Dream big and dare to fail. If you can dream it, you can do it. Stay hungry, stay foolish. Docker Deployment I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. CI/CD
