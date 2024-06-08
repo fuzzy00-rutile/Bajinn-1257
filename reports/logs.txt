@@ -17,3 +17,4 @@ Agile Security Container Orchestration Automation Do what you love and the money
 Microservices Pull Request Firewalls Neural Networks Code Review Content Delivery Network OAuth Zero Downtime Deployment JWT CI/CD
 Virtual Machines Performance Replica Set API JWT Serverless React Big Data JavaScript Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. GraphQL Innovation distinguishes between a leader and a follower. Content Delivery Network
 Blockchain Performance WebSockets Event-driven Architecture Stay hungry, stay foolish.
+CI/CD Replica Set Optimization Work hard in silence, let your success be your noise. Event Sourcing
