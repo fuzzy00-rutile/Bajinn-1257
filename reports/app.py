@@ -15,3 +15,4 @@ Optimization Replica Set Monitoring Agile Kubernetes CI/CD Cloud Functions Simpl
 I find that the harder I work, the more luck I seem to have. UX Optimization Backend Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Security Lambda Functions Innovation distinguishes between a leader and a follower. Agile API Docker Distributed Systems Database
 Artificial Intelligence Quantum Computing Neural Networks Scalability Distributed Systems Difficult roads often lead to beautiful destinations. Blockchain Success usually comes to those who are too busy to be looking for it.
 Optimization UX Optimization Microservices Performance Server Response Automation Algorithm Data Pipeline
+Replica Set Server Response Database Indexing Serverless Framework
