@@ -11,3 +11,4 @@ WebSockets GraphQL Great things never come from comfort zones. Success is how hi
 DNS Routing Success doesn’t just find you. You have to go out and get it. Load Balancing Event Sourcing CI/CD IoT
 Lambda Functions A/B Testing Database Container Orchestration NLP Agile
 Optimization Deployment Server Response Frontend Code Review Pull Request RabbitMQ Quantum Computing JavaScript Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
+DNS Routing Simplicity is the ultimate sophistication. Cloud Functions Event Sourcing Docker Happiness is not something ready made. It comes from your own actions. Distributed Systems
