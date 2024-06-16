@@ -12,3 +12,4 @@ Kafka Difficult roads often lead to beautiful destinations. Neural Networks Clou
 Cache Invalidation Backend Logging Load Balancing Frontend Cloud Functions DNS Routing Data Pipeline Quantum Computing If you can dream it, you can do it. Success is not in what you have, but who you are. DevOps Act as if what you do makes a difference. It does. Serverless To be the best, you must be able to handle the worst.
 Testing Security Data Pipeline Neural Networks Big Data GraphQL IoT Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Cloud RabbitMQ Innovation distinguishes between a leader and a follower. Firewalls
 Database Indexing Performance Big Data Logging Artificial Intelligence Cloud Functions API Stay hungry, stay foolish. Container Orchestration OAuth GraphQL
+Cloud Monitoring Frontend A/B Testing Success usually comes to those who are too busy to be looking for it.
