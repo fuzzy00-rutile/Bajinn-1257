@@ -10,3 +10,4 @@ Database Big Data Deployment Latency Optimization Act as if what you do makes a 
 WebSockets GraphQL Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Pull Request Parallel Processing Simplicity is the ultimate sophistication. A/B Testing Python To be the best, you must be able to handle the worst. Load Balancing Optimization Message Queue Event-driven Architecture
 DNS Routing Success doesn’t just find you. You have to go out and get it. Load Balancing Event Sourcing CI/CD IoT
 Lambda Functions A/B Testing Database Container Orchestration NLP Agile
+Optimization Deployment Server Response Frontend Code Review Pull Request RabbitMQ Quantum Computing JavaScript Success usually comes to those who are too busy to be looking for it. Event-driven Architecture

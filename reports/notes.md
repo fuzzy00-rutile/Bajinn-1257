@@ -7,3 +7,4 @@ Cache Invalidation Database Indexing Version Control Innovation distinguishes be
 Automation Lambda Functions Database Indexing Containerization A/B Testing
 Great things never come from comfort zones. Distributed Systems Stay hungry, stay foolish. Testing If you can dream it, you can do it. Load Balancing Pull Request JWT IoT Data Science Don't be afraid to give up the good to go for the great. Security
 Docker Microservices Sharding Frontend I find that the harder I work, the more luck I seem to have. Lambda Functions Parallel Processing
+Deployment Security UX Optimization Latency Optimization Docker Act as if what you do makes a difference. It does.
