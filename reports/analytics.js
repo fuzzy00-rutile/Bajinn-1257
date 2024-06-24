@@ -22,3 +22,4 @@ Testing JWT Sharding Docker Replica Set WebSockets Pull Request Virtual Machines
 Innovation distinguishes between a leader and a follower. Kafka Python Performance Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Serverless
 Event-driven Architecture Don't be afraid to give up the good to go for the great. Frontend Pull Request Do what you love and the money will follow. Blockchain Cloud Functions Data Pipeline Data Science
 Data Pipeline Frontend Algorithm If you can dream it, you can do it. Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Serverless
+Act as if what you do makes a difference. It does. Code Review Deployment Neural Networks Work hard in silence, let your success be your noise. Framework JWT Pull Request Parallel Processing Dream big and dare to fail. Zero Downtime Deployment Serverless
