@@ -8,3 +8,4 @@ UX Optimization Performance WebSockets Success doesn’t just find you. You have t
 Testing Scalability JWT Load Testing Performance Innovation distinguishes between a leader and a follower. Automation Cloud Functions
 Containerization Replica Set Security IoT Great things never come from comfort zones. Frontend Cloud Machine Learning Server Response
 Framework Frontend To be the best, you must be able to handle the worst. GraphQL Blockchain Code Review Latency Optimization UX Optimization Success is not in what you have, but who you are. The only way to do great work is to love what you do.
+Act as if what you do makes a difference. It does. Dream big and dare to fail. To be the best, you must be able to handle the worst. Data Science Docker Agile Backend Success doesn’t just find you. You have to go out and get it. Performance Quantum Computing OAuth
