@@ -15,3 +15,4 @@ To be the best, you must be able to handle the worst. API Gateway Happiness is n
 NLP Agile Testing RabbitMQ Version Control Great things never come from comfort zones. Database Data Pipeline JavaScript
 Optimization Code Review NLP Frontend Scalability Kafka Event-driven Architecture Lambda Functions Artificial Intelligence
 Performance Kafka Quantum Computing Happiness is not something ready made. It comes from your own actions. Load Testing Artificial Intelligence Message Queue Data Pipeline If you can dream it, you can do it. Pull Request Logging JavaScript JWT Database Indexing
+Event-driven Architecture JWT Quantum Computing API Gateway Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Replica Set Don't be afraid to give up the good to go for the great. Neural Networks Security Testing Python Serverless Containerization Monitoring
