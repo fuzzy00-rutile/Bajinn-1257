@@ -13,3 +13,4 @@ Artificial Intelligence Kafka Agile NLP Microservices API Opportunities don't ha
 Code Review RabbitMQ Predictive Analytics Performance Big Data DevOps
 Optimization Replica Set Monitoring Agile Kubernetes CI/CD Cloud Functions Simplicity is the ultimate sophistication. DevOps Algorithm
 I find that the harder I work, the more luck I seem to have. UX Optimization Backend Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Security Lambda Functions Innovation distinguishes between a leader and a follower. Agile API Docker Distributed Systems Database
+Artificial Intelligence Quantum Computing Neural Networks Scalability Distributed Systems Difficult roads often lead to beautiful destinations. Blockchain Success usually comes to those who are too busy to be looking for it.
