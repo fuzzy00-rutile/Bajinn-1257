@@ -7,3 +7,4 @@ Frontend Cloud Functions Python Logging Happiness is not something ready made. I
 UX Optimization Performance WebSockets Success doesn’t just find you. You have to go out and get it. Lambda Functions Message Queue Dream big and dare to fail. Kubernetes CI/CD Server Response Great things never come from comfort zones. Kafka Sharding Virtual Machines Code Review
 Testing Scalability JWT Load Testing Performance Innovation distinguishes between a leader and a follower. Automation Cloud Functions
 Containerization Replica Set Security IoT Great things never come from comfort zones. Frontend Cloud Machine Learning Server Response
+Framework Frontend To be the best, you must be able to handle the worst. GraphQL Blockchain Code Review Latency Optimization UX Optimization Success is not in what you have, but who you are. The only way to do great work is to love what you do.
