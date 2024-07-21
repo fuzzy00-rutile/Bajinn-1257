@@ -14,3 +14,4 @@ Security Stay hungry, stay foolish. Content Delivery Network API Cloud Opportuni
 To be the best, you must be able to handle the worst. API Gateway Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. GraphQL Kubernetes
 NLP Agile Testing RabbitMQ Version Control Great things never come from comfort zones. Database Data Pipeline JavaScript
 Optimization Code Review NLP Frontend Scalability Kafka Event-driven Architecture Lambda Functions Artificial Intelligence
+Performance Kafka Quantum Computing Happiness is not something ready made. It comes from your own actions. Load Testing Artificial Intelligence Message Queue Data Pipeline If you can dream it, you can do it. Pull Request Logging JavaScript JWT Database Indexing
