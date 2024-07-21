@@ -13,3 +13,4 @@ Dream big and dare to fail. Automation Multi-threading Database Stay hungry, sta
 Security Stay hungry, stay foolish. Content Delivery Network API Cloud Opportunities don't happen. You create them. Optimization A/B Testing Firewalls Testing
 To be the best, you must be able to handle the worst. API Gateway Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. GraphQL Kubernetes
 NLP Agile Testing RabbitMQ Version Control Great things never come from comfort zones. Database Data Pipeline JavaScript
+Optimization Code Review NLP Frontend Scalability Kafka Event-driven Architecture Lambda Functions Artificial Intelligence
