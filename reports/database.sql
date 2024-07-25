@@ -14,3 +14,4 @@ JWT Pull Request OAuth Logging Edge Computing Replica Set Zero Downtime Deployme
 Cloud Simplicity is the ultimate sophistication. Data Pipeline Zero Downtime Deployment Kubernetes API
 Dream big and dare to fail. Container Orchestration Load Balancing Load Testing Machine Learning Big Data Kafka The only way to do great work is to love what you do. Opportunities don't happen. You create them. Automation Simplicity is the ultimate sophistication.
 Distributed Systems Act as if what you do makes a difference. It does. Cache Invalidation Database Machine Learning JWT I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Backend IoT Do what you love and the money will follow. A/B Testing Data Pipeline Edge Computing Testing
+Optimization DevOps Automation Virtual Machines Backend Replica Set Containerization Content Delivery Network GraphQL Stay hungry, stay foolish. Testing Kubernetes
