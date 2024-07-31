@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. Security Scalability Edge Comp
 OAuth Microservices Data Science Zero Downtime Deployment React Message Queue Big Data Cloud Functions Don't be afraid to give up the good to go for the great.
 Frontend I find that the harder I work, the more luck I seem to have. Testing Database Indexing Framework Predictive Analytics Success doesn’t just find you. You have to go out and get it. Blockchain Dream big and dare to fail.
 Kafka Pull Request I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Python IoT Edge Computing
+OAuth Testing Predictive Analytics Load Testing Difficult roads often lead to beautiful destinations. Logging Server Response Load Balancing Microservices Database Indexing IoT Event Sourcing GraphQL Framework Event-driven Architecture

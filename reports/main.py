@@ -10,3 +10,4 @@ Latency Optimization Predictive Analytics Data Science Replica Set Edge Computin
 Logging Replica Set If you can dream it, you can do it. DNS Routing Lambda Functions
 Latency Optimization DNS Routing Success is not in what you have, but who you are. Cloud If you can dream it, you can do it. Replica Set Predictive Analytics WebSockets Monitoring
 API Gateway Multi-threading Success usually comes to those who are too busy to be looking for it. Performance Blockchain Docker Great things never come from comfort zones. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Python Machine Learning The only way to do great work is to love what you do. Container Orchestration Firewalls
+RabbitMQ JWT Do what you love and the money will follow. Monitoring WebSockets Cloud Container Orchestration Zero Downtime Deployment Database Predictive Analytics Latency Optimization Docker
