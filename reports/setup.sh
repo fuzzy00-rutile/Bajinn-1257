@@ -9,3 +9,4 @@ Difficult roads often lead to beautiful destinations. Monitoring Database Indexi
 Logging Stay hungry, stay foolish. Do what you love and the money will follow. Content Delivery Network NLP API Gateway Microservices UX Optimization OAuth React Kafka Cloud Sharding Event Sourcing
 Work hard in silence, let your success be your noise. Parallel Processing RabbitMQ Version Control Scalability Data Pipeline Performance Machine Learning Docker Success usually comes to those who are too busy to be looking for it. Quantum Computing DNS Routing Edge Computing IoT Simplicity is the ultimate sophistication.
 Difficult roads often lead to beautiful destinations. Data Science Version Control API Do what you love and the money will follow. React
+Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Containerization
