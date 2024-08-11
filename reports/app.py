@@ -10,3 +10,4 @@ WebSockets Version Control Sharding Simplicity is the ultimate sophistication. W
 Difficult roads often lead to beautiful destinations. Distributed Systems Stay hungry, stay foolish. Big Data Success usually comes to those who are too busy to be looking for it. DevOps Lambda Functions Cloud Data Pipeline
 React Python DNS Routing Event Sourcing Pull Request A/B Testing Cloud Functions Edge Computing Database Testing GraphQL Happiness is not something ready made. It comes from your own actions.
 Artificial Intelligence Kafka Agile NLP Microservices API Opportunities don't happen. You create them. Big Data Scalability Data Science If you can dream it, you can do it. Neural Networks Lambda Functions
+Code Review RabbitMQ Predictive Analytics Performance Big Data DevOps

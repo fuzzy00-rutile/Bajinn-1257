@@ -10,3 +10,4 @@ Virtual Machines Cloud Functions Scalability If you can dream it, you can do it.
 Deployment Predictive Analytics The only way to do great work is to love what you do. Event-driven Architecture Serverless JavaScript Kubernetes Version Control
 Blockchain Optimization Artificial Intelligence Server Response Container Orchestration Dream big and dare to fail. Code Review Framework Neural Networks Algorithm Work hard in silence, let your success be your noise. RabbitMQ A/B Testing
 CI/CD Cloud Innovation distinguishes between a leader and a follower. Logging React The only way to do great work is to love what you do.
+Database Indexing If you can dream it, you can do it. Kafka Kubernetes API Gateway Great things never come from comfort zones. Artificial Intelligence Latency Optimization Logging I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
