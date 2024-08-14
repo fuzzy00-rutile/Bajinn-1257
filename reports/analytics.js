@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. Latency Optimizati
 Happiness is not something ready made. It comes from your own actions. RabbitMQ Optimization Pull Request Latency Optimization Containerization
 Deployment JWT RabbitMQ Cloud Work hard in silence, let your success be your noise.
 Testing JWT Sharding Docker Replica Set WebSockets Pull Request Virtual Machines Distributed Systems
+Innovation distinguishes between a leader and a follower. Kafka Python Performance Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Serverless
