@@ -14,3 +14,4 @@ RabbitMQ Latency Optimization Backend Pull Request DevOps Machine Learning Simpl
 A/B Testing Frontend Load Balancing Don't be afraid to give up the good to go for the great. WebSockets
 RabbitMQ Latency Optimization API Event-driven Architecture Content Delivery Network
 The only way to do great work is to love what you do. Machine Learning Quantum Computing Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. A/B Testing Great things never come from comfort zones. Serverless Version Control Logging
+Docker Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Code Review Agile Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Kafka Database Indexing Opportunities don't happen. You create them. NLP

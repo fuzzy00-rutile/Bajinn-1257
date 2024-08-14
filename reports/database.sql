@@ -12,3 +12,4 @@ Logging Success is not in what you have, but who you are. Predictive Analytics N
 Simplicity is the ultimate sophistication. Kafka Success is not in what you have, but who you are. Security Optimization Algorithm Event Sourcing Machine Learning Happiness is not something ready made. It comes from your own actions.
 JWT Pull Request OAuth Logging Edge Computing Replica Set Zero Downtime Deployment Simplicity is the ultimate sophistication. WebSockets
 Cloud Simplicity is the ultimate sophistication. Data Pipeline Zero Downtime Deployment Kubernetes API
+Dream big and dare to fail. Container Orchestration Load Balancing Load Testing Machine Learning Big Data Kafka The only way to do great work is to love what you do. Opportunities don't happen. You create them. Automation Simplicity is the ultimate sophistication.
