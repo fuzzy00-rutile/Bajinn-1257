@@ -5,3 +5,4 @@ If you can dream it, you can do it. Cloud Functions WebSockets Artificial Intell
 Performance API Gateway Python IoT Kubernetes Happiness is not something ready made. It comes from your own actions. Blockchain Big Data Pull Request Logging
 Innovation distinguishes between a leader and a follower. Cloud Functions NLP Event-driven Architecture Testing
 Performance Database Indexing Difficult roads often lead to beautiful destinations. CI/CD Distributed Systems Event-driven Architecture RabbitMQ Cache Invalidation
+Serverless Docker Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Kafka Message Queue Testing Act as if what you do makes a difference. It does. Version Control To be the best, you must be able to handle the worst. Framework Great things never come from comfort zones.

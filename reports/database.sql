@@ -11,3 +11,4 @@ Kubernetes Virtual Machines Data Science Load Testing Message Queue Happiness is
 Logging Success is not in what you have, but who you are. Predictive Analytics NLP Database Indexing
 Simplicity is the ultimate sophistication. Kafka Success is not in what you have, but who you are. Security Optimization Algorithm Event Sourcing Machine Learning Happiness is not something ready made. It comes from your own actions.
 JWT Pull Request OAuth Logging Edge Computing Replica Set Zero Downtime Deployment Simplicity is the ultimate sophistication. WebSockets
+Cloud Simplicity is the ultimate sophistication. Data Pipeline Zero Downtime Deployment Kubernetes API
