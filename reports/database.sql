@@ -10,3 +10,4 @@ JWT Act as if what you do makes a difference. It does. Deployment Quantum Comput
 Kubernetes Virtual Machines Data Science Load Testing Message Queue Happiness is not something ready made. It comes from your own actions. Agile To be the best, you must be able to handle the worst. Docker Difficult roads often lead to beautiful destinations. Code Review
 Logging Success is not in what you have, but who you are. Predictive Analytics NLP Database Indexing
 Simplicity is the ultimate sophistication. Kafka Success is not in what you have, but who you are. Security Optimization Algorithm Event Sourcing Machine Learning Happiness is not something ready made. It comes from your own actions.
+JWT Pull Request OAuth Logging Edge Computing Replica Set Zero Downtime Deployment Simplicity is the ultimate sophistication. WebSockets
