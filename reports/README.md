@@ -13,3 +13,4 @@ Security Artificial Intelligence API Gateway Monitoring Success is how high you 
 Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Framework Machine Learning JavaScript Message Queue Cache Invalidation Database Content Delivery Network
 Success is how high you bounce when you hit bottom. Database Framework Algorithm Code Review JavaScript React Do what you love and the money will follow. Neural Networks Scalability Don't be afraid to give up the good to go for the great. Microservices Event Sourcing Server Response Security
 Agile React RabbitMQ Database Don't be afraid to give up the good to go for the great. Automation UX Optimization Blockchain Server Response Sharding Multi-threading
+Optimization Containerization Do what you love and the money will follow. Latency Optimization Data Pipeline If you can dream it, you can do it.
