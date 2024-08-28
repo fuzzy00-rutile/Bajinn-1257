@@ -7,3 +7,4 @@ Parallel Processing CI/CD Automation Scalability Act as if what you do makes a d
 Framework Simplicity is the ultimate sophistication. Quantum Computing Do what you love and the money will follow. Deployment
 Message Queue Firewalls Algorithm DevOps Monitoring Docker API Great things never come from comfort zones.
 JWT Act as if what you do makes a difference. It does. Deployment Quantum Computing Opportunities don't happen. You create them. Kubernetes Testing Distributed Systems Cache Invalidation Virtual Machines Backend Scalability Containerization
+Kubernetes Virtual Machines Data Science Load Testing Message Queue Happiness is not something ready made. It comes from your own actions. Agile To be the best, you must be able to handle the worst. Docker Difficult roads often lead to beautiful destinations. Code Review
