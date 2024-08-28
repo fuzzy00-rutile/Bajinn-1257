@@ -7,3 +7,4 @@ A/B Testing UX Optimization Cloud Functions Success is how high you bounce when 
 Dream big and dare to fail. Serverless Database Indexing Testing Sharding Pull Request Message Queue Data Science API Gateway Scalability
 Backend Automation Cloud Difficult roads often lead to beautiful destinations. GraphQL Work hard in silence, let your success be your noise. Code Review JWT Data Pipeline React Performance Database Indexing Multi-threading
 WebSockets Version Control Sharding Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Framework Docker Virtual Machines Load Testing Code Review Performance RabbitMQ IoT
+Difficult roads often lead to beautiful destinations. Distributed Systems Stay hungry, stay foolish. Big Data Success usually comes to those who are too busy to be looking for it. DevOps Lambda Functions Cloud Data Pipeline

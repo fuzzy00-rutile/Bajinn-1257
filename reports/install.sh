@@ -11,3 +11,4 @@ Monitoring NLP Artificial Intelligence Database Neural Networks IoT Firewalls Mi
 Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Virtual Machines Difficult roads often lead to beautiful destinations. Lambda Functions Blockchain
 Sharding Logging Event Sourcing CI/CD Latency Optimization OAuth Distributed Systems Database Quantum Computing Replica Set Framework Microservices Container Orchestration
 Happiness is not something ready made. It comes from your own actions. Framework Pull Request Deployment API Gateway JWT Data Pipeline Load Balancing Container Orchestration Event Sourcing
+Monitoring GraphQL The only way to do great work is to love what you do. Logging Parallel Processing Dream big and dare to fail.

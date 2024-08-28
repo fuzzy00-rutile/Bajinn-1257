@@ -11,3 +11,4 @@ Scalability Database Indexing Framework Success is not in what you have, but who
 Cloud Neural Networks Framework NLP Containerization Success is not in what you have, but who you are. CI/CD Difficult roads often lead to beautiful destinations. Event Sourcing I find that the harder I work, the more luck I seem to have. Edge Computing Happiness is not something ready made. It comes from your own actions. Server Response Sharding Docker
 Success is not in what you have, but who you are. Security Scalability Edge Computing Data Pipeline Kafka Firewalls OAuth Neural Networks
 OAuth Microservices Data Science Zero Downtime Deployment React Message Queue Big Data Cloud Functions Don't be afraid to give up the good to go for the great.
+Frontend I find that the harder I work, the more luck I seem to have. Testing Database Indexing Framework Predictive Analytics Success doesn’t just find you. You have to go out and get it. Blockchain Dream big and dare to fail.
