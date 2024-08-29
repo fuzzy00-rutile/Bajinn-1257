@@ -9,3 +9,4 @@ Serverless Do what you love and the money will follow. Backend Predictive Analyt
 Cloud Load Balancing Monitoring Simplicity is the ultimate sophistication. Testing Python I find that the harder I work, the more luck I seem to have. API Gateway Deployment Event-driven Architecture Security
 Database Indexing Big Data Artificial Intelligence Message Queue Sharding Algorithm Load Testing Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. DNS Routing
 Happiness is not something ready made. It comes from your own actions. Testing Cache Invalidation Pull Request Firewalls NLP Zero Downtime Deployment Dream big and dare to fail. Docker Framework Latency Optimization Success is how high you bounce when you hit bottom. A/B Testing Kubernetes
+Replica Set Content Delivery Network Cache Invalidation Version Control Cloud DNS Routing Frontend UX Optimization
