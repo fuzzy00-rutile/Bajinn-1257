@@ -5,3 +5,4 @@ Innovation distinguishes between a leader and a follower. Pull Request Security 
 Artificial Intelligence Kafka Virtual Machines Big Data DNS Routing Event-driven Architecture Load Balancing Cache Invalidation Success usually comes to those who are too busy to be looking for it.
 Parallel Processing CI/CD Automation Scalability Act as if what you do makes a difference. It does. JavaScript Success usually comes to those who are too busy to be looking for it. Database Indexing Sharding OAuth DevOps Data Science Deployment Predictive Analytics Framework
 Framework Simplicity is the ultimate sophistication. Quantum Computing Do what you love and the money will follow. Deployment
+Message Queue Firewalls Algorithm DevOps Monitoring Docker API Great things never come from comfort zones.
