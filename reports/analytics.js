@@ -14,3 +14,4 @@ Scalability Virtual Machines Framework Deployment Database DNS Routing
 Replica Set Serverless Data Science Artificial Intelligence Success is not in what you have, but who you are. Python Optimization Frontend Predictive Analytics
 Backend Artificial Intelligence Kafka Opportunities don't happen. You create them. Blockchain Firewalls Event Sourcing Dream big and dare to fail. Code Review Load Testing Pull Request Zero Downtime Deployment Lambda Functions Happiness is not something ready made. It comes from your own actions. Security
 Security Deployment Framework CI/CD Sharding Load Testing Lambda Functions Artificial Intelligence API Work hard in silence, let your success be your noise. Python Performance Blockchain NLP
+Microservices Virtual Machines Machine Learning Work hard in silence, let your success be your noise. Sharding Lambda Functions Container Orchestration Monitoring Version Control Frontend CI/CD Cache Invalidation
