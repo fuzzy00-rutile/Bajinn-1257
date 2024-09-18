@@ -13,3 +13,4 @@ Version Control Optimization Monitoring Lambda Functions IoT WebSockets Multi-th
 RabbitMQ Latency Optimization Backend Pull Request DevOps Machine Learning Simplicity is the ultimate sophistication. Stay hungry, stay foolish.
 A/B Testing Frontend Load Balancing Don't be afraid to give up the good to go for the great. WebSockets
 RabbitMQ Latency Optimization API Event-driven Architecture Content Delivery Network
+The only way to do great work is to love what you do. Machine Learning Quantum Computing Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. A/B Testing Great things never come from comfort zones. Serverless Version Control Logging
