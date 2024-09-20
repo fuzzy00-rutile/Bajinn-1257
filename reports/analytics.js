@@ -11,3 +11,4 @@ UX Optimization Don't be afraid to give up the good to go for the great. Success
 If you can dream it, you can do it. To be the best, you must be able to handle the worst. Event Sourcing Cloud Functions Simplicity is the ultimate sophistication. Firewalls Docker
 Microservices A/B Testing Agile Success is how high you bounce when you hit bottom. Pull Request Distributed Systems Success is not in what you have, but who you are.
 Scalability Virtual Machines Framework Deployment Database DNS Routing
+Replica Set Serverless Data Science Artificial Intelligence Success is not in what you have, but who you are. Python Optimization Frontend Predictive Analytics
