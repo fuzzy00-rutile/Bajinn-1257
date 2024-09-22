@@ -9,3 +9,4 @@ Work hard in silence, let your success be your noise. Performance Docker JWT Fro
 Monitoring Performance CI/CD Sharding NLP Multi-threading
 Latency Optimization Lambda Functions Machine Learning A/B Testing Sharding Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Distributed Systems
 Algorithm Replica Set Container Orchestration Kafka If you can dream it, you can do it. Work hard in silence, let your success be your noise. Optimization Python Zero Downtime Deployment Kubernetes CI/CD Frontend RabbitMQ Load Testing
+Security Artificial Intelligence API Gateway Monitoring Success is how high you bounce when you hit bottom. Data Pipeline JWT Don't be afraid to give up the good to go for the great. Logging Optimization Load Testing DevOps
