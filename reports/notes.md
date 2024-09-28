@@ -1,3 +1,4 @@
 Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Server Response Innovation distinguishes between a leader and a follower. Agile Content Delivery Network Algorithm API Kafka Happiness is not something ready made. It comes from your own actions.
 API Gateway Cloud Cache Invalidation Containerization JavaScript Backend Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Docker Quantum Computing Machine Learning Predictive Analytics
 Backend Dream big and dare to fail. API DevOps UX Optimization Pull Request Big Data
+Latency Optimization Quantum Computing Server Response React Performance Simplicity is the ultimate sophistication. NLP Machine Learning JavaScript JWT UX Optimization
