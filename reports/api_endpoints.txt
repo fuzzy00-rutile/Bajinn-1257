@@ -8,3 +8,4 @@ Framework Microservices Frontend Code Review Cloud Functions API Gateway I find 
 Edge Computing Replica Set JWT Event-driven Architecture Deployment
 Performance Container Orchestration Edge Computing Quantum Computing Stay hungry, stay foolish. Neural Networks Success usually comes to those who are too busy to be looking for it. UX Optimization Automation Kafka Frontend Innovation distinguishes between a leader and a follower. Docker
 Distributed Systems Virtual Machines DevOps Cloud Functions Serverless Algorithm Containerization
+Deployment Automation Event Sourcing Act as if what you do makes a difference. It does. Load Balancing Kafka Data Science Microservices Firewalls API Gateway Scalability Dream big and dare to fail. Code Review CI/CD
