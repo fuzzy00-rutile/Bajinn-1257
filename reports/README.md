@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Act as if what you do m
 Work hard in silence, let your success be your noise. Performance Docker JWT Frontend Machine Learning
 Monitoring Performance CI/CD Sharding NLP Multi-threading
 Latency Optimization Lambda Functions Machine Learning A/B Testing Sharding Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Distributed Systems
+Algorithm Replica Set Container Orchestration Kafka If you can dream it, you can do it. Work hard in silence, let your success be your noise. Optimization Python Zero Downtime Deployment Kubernetes CI/CD Frontend RabbitMQ Load Testing
