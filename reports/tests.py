@@ -3,3 +3,4 @@ Frontend Happiness is not something ready made. It comes from your own actions. 
 Load Balancing Data Science JavaScript Cloud Functions Optimization CI/CD Load Testing I find that the harder I work, the more luck I seem to have. Lambda Functions Firewalls A/B Testing Big Data Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Deployment
 If you can dream it, you can do it. Cloud Functions WebSockets Artificial Intelligence Latency Optimization Pull Request Distributed Systems Sharding Opportunities don't happen. You create them. JavaScript
 Performance API Gateway Python IoT Kubernetes Happiness is not something ready made. It comes from your own actions. Blockchain Big Data Pull Request Logging
+Innovation distinguishes between a leader and a follower. Cloud Functions NLP Event-driven Architecture Testing
