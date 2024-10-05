@@ -5,3 +5,4 @@ Distributed Systems Monitoring Kubernetes Happiness is not something ready made.
 Firewalls GraphQL Message Queue Kafka Containerization Logging Deployment Kubernetes
 Data Pipeline Stay hungry, stay foolish. Server Response Success is how high you bounce when you hit bottom. A/B Testing Latency Optimization Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Container Orchestration Load Balancing Agile Cloud Functions
 Big Data Kafka To be the best, you must be able to handle the worst. Containerization Latency Optimization Microservices
+Difficult roads often lead to beautiful destinations. Monitoring Database Indexing Replica Set Backend UX Optimization
