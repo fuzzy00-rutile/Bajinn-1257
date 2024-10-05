@@ -4,3 +4,4 @@ Blockchain Success doesn’t just find you. You have to go out and get it. Innovat
 Virtual Machines Replica Set Stay hungry, stay foolish. Monitoring Success is how high you bounce when you hit bottom. Frontend
 Load Testing Don't be afraid to give up the good to go for the great. Load Balancing Edge Computing Serverless The only way to do great work is to love what you do. Event Sourcing
 Frontend Cloud Functions Python Logging Happiness is not something ready made. It comes from your own actions.
+UX Optimization Performance WebSockets Success doesn’t just find you. You have to go out and get it. Lambda Functions Message Queue Dream big and dare to fail. Kubernetes CI/CD Server Response Great things never come from comfort zones. Kafka Sharding Virtual Machines Code Review
