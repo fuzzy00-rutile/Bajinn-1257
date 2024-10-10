@@ -5,3 +5,4 @@ Blockchain Big Data API Monitoring Opportunities don't happen. You create them. 
 NLP Agile Logging Virtual Machines Firewalls Dream big and dare to fail. DevOps Backend Success usually comes to those who are too busy to be looking for it.
 JavaScript Container Orchestration Zero Downtime Deployment UX Optimization Virtual Machines IoT
 Cloud Functions Opportunities don't happen. You create them. RabbitMQ To be the best, you must be able to handle the worst. Distributed Systems Zero Downtime Deployment Don't be afraid to give up the good to go for the great. DNS Routing Replica Set Monitoring IoT Lambda Functions
+Neural Networks Optimization Docker DevOps WebSockets Version Control Content Delivery Network
