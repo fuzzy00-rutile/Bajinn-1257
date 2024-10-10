@@ -9,3 +9,4 @@ Python I find that the harder I work, the more luck I seem to have. Blockchain W
 The only way to do great work is to love what you do. Blockchain DevOps Logging To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Neural Networks Sharding Scalability Algorithm Load Balancing
 Testing Containerization Framework Neural Networks Replica Set Kafka UX Optimization DevOps
 Work hard in silence, let your success be your noise. Scalability Microservices Cache Invalidation Event Sourcing The only way to do great work is to love what you do. API Gateway Simplicity is the ultimate sophistication. Performance JavaScript Big Data Edge Computing
+Version Control Optimization Monitoring Lambda Functions IoT WebSockets Multi-threading Kafka To be the best, you must be able to handle the worst. Container Orchestration
