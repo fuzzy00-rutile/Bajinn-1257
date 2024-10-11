@@ -7,3 +7,4 @@ Monitoring Pull Request Kubernetes Neural Networks Dream big and dare to fail. V
 Framework Microservices Frontend Code Review Cloud Functions API Gateway I find that the harder I work, the more luck I seem to have. Edge Computing Monitoring Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Server Response Difficult roads often lead to beautiful destinations. Dream big and dare to fail.
 Edge Computing Replica Set JWT Event-driven Architecture Deployment
 Performance Container Orchestration Edge Computing Quantum Computing Stay hungry, stay foolish. Neural Networks Success usually comes to those who are too busy to be looking for it. UX Optimization Automation Kafka Frontend Innovation distinguishes between a leader and a follower. Docker
+Distributed Systems Virtual Machines DevOps Cloud Functions Serverless Algorithm Containerization
