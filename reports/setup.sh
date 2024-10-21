@@ -4,3 +4,4 @@ Big Data Sharding Blockchain WebSockets Microservices Great things never come fr
 Distributed Systems Monitoring Kubernetes Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Code Review Testing Serverless Sharding
 Firewalls GraphQL Message Queue Kafka Containerization Logging Deployment Kubernetes
 Data Pipeline Stay hungry, stay foolish. Server Response Success is how high you bounce when you hit bottom. A/B Testing Latency Optimization Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Container Orchestration Load Balancing Agile Cloud Functions
+Big Data Kafka To be the best, you must be able to handle the worst. Containerization Latency Optimization Microservices
