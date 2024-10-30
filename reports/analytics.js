@@ -10,3 +10,4 @@ Blockchain Performance Backend Work hard in silence, let your success be your no
 UX Optimization Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Replica Set Big Data IoT Load Balancing To be the best, you must be able to handle the worst.
 If you can dream it, you can do it. To be the best, you must be able to handle the worst. Event Sourcing Cloud Functions Simplicity is the ultimate sophistication. Firewalls Docker
 Microservices A/B Testing Agile Success is how high you bounce when you hit bottom. Pull Request Distributed Systems Success is not in what you have, but who you are.
+Scalability Virtual Machines Framework Deployment Database DNS Routing
