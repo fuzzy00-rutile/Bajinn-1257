@@ -3,3 +3,4 @@ Pull Request Performance CI/CD Code Review IoT Microservices A/B Testing Edge Co
 Content Delivery Network Cache Invalidation WebSockets Cloud Functions Server Response CI/CD
 Cloud Machine Learning Testing Agile GraphQL Framework Cache Invalidation Act as if what you do makes a difference. It does. Parallel Processing Event-driven Architecture CI/CD Predictive Analytics WebSockets
 Predictive Analytics UX Optimization NLP Scalability Stay hungry, stay foolish. Virtual Machines Monitoring Load Balancing Sharding Pull Request Data Science Blockchain Neural Networks OAuth
+API Gateway Edge Computing Container Orchestration WebSockets Success is how high you bounce when you hit bottom. React Data Pipeline
