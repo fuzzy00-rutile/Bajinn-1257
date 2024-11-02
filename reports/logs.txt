@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Optimization GraphQL Neura
 Monitoring IoT Big Data DNS Routing Cloud Functions Containerization Message Queue Multi-threading Stay hungry, stay foolish. Blockchain Agile Optimization
 CI/CD Cache Invalidation Scalability Pull Request Predictive Analytics Multi-threading I find that the harder I work, the more luck I seem to have. OAuth Optimization Neural Networks
 Performance Artificial Intelligence Framework Opportunities don't happen. You create them. Pull Request Python Database
+Blockchain Frontend Firewalls To be the best, you must be able to handle the worst. Docker Machine Learning
