@@ -5,3 +5,4 @@ API Gateway API Serverless Message Queue UX Optimization Database Do what you lo
 Database Load Balancing Python NLP GraphQL Act as if what you do makes a difference. It does.
 Monitoring Pull Request Kubernetes Neural Networks Dream big and dare to fail. Version Control Lambda Functions Predictive Analytics
 Framework Microservices Frontend Code Review Cloud Functions API Gateway I find that the harder I work, the more luck I seem to have. Edge Computing Monitoring Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Server Response Difficult roads often lead to beautiful destinations. Dream big and dare to fail.
+Edge Computing Replica Set JWT Event-driven Architecture Deployment
