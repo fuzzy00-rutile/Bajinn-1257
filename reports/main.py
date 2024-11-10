@@ -3,3 +3,4 @@ Work hard in silence, let your success be your noise. Innovation distinguishes b
 Do what you love and the money will follow. Data Pipeline Edge Computing Virtual Machines To be the best, you must be able to handle the worst.
 Blockchain Big Data API Monitoring Opportunities don't happen. You create them. Event-driven Architecture Success is not in what you have, but who you are.
 NLP Agile Logging Virtual Machines Firewalls Dream big and dare to fail. DevOps Backend Success usually comes to those who are too busy to be looking for it.
+JavaScript Container Orchestration Zero Downtime Deployment UX Optimization Virtual Machines IoT
