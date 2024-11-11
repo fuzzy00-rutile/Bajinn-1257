@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Logging Latency Optimizati
 Stay hungry, stay foolish. Automation The only way to do great work is to love what you do. Serverless Zero Downtime Deployment Code Review DevOps JWT Kubernetes Docker Kafka Great things never come from comfort zones. NLP API Gateway Message Queue
 Success is not in what you have, but who you are. CI/CD The only way to do great work is to love what you do. Load Testing Kafka
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Sharding Quantum Computing Stay hungry, stay foolish. Monitoring To be the best, you must be able to handle the worst. Machine Learning
+Serverless Do what you love and the money will follow. Backend Predictive Analytics DevOps Performance Firewalls Pull Request Latency Optimization Difficult roads often lead to beautiful destinations. A/B Testing
