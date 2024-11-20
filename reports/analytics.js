@@ -8,3 +8,4 @@ Success usually comes to those who are too busy to be looking for it. Work hard 
 Edge Computing Cache Invalidation Python OAuth DNS Routing Event-driven Architecture Optimization Simplicity is the ultimate sophistication.
 Blockchain Performance Backend Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Database Indexing Python
 UX Optimization Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Replica Set Big Data IoT Load Balancing To be the best, you must be able to handle the worst.
+If you can dream it, you can do it. To be the best, you must be able to handle the worst. Event Sourcing Cloud Functions Simplicity is the ultimate sophistication. Firewalls Docker
