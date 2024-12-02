@@ -4,3 +4,4 @@ Multi-threading DNS Routing Zero Downtime Deployment Code Review Serverless JWT 
 Load Testing Serverless DevOps Multi-threading Lambda Functions
 Lambda Functions API Gateway Event-driven Architecture CI/CD Testing Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
 Python Artificial Intelligence Edge Computing Code Review Virtual Machines Frontend JavaScript Cloud Content Delivery Network WebSockets Logging Deployment Automation Serverless
+To be the best, you must be able to handle the worst. DNS Routing Code Review CI/CD Testing Firewalls Monitoring Innovation distinguishes between a leader and a follower. API Gateway GraphQL Replica Set
