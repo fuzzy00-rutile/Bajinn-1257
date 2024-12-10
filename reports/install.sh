@@ -3,3 +3,4 @@ Docker Data Pipeline Cloud Functions Deployment Predictive Analytics Optimizatio
 Multi-threading DNS Routing Zero Downtime Deployment Code Review Serverless JWT Success is how high you bounce when you hit bottom.
 Load Testing Serverless DevOps Multi-threading Lambda Functions
 Lambda Functions API Gateway Event-driven Architecture CI/CD Testing Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
+Python Artificial Intelligence Edge Computing Code Review Virtual Machines Frontend JavaScript Cloud Content Delivery Network WebSockets Logging Deployment Automation Serverless
