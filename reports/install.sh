@@ -2,3 +2,4 @@ DevOps Success usually comes to those who are too busy to be looking for it. I f
 Docker Data Pipeline Cloud Functions Deployment Predictive Analytics Optimization Code Review Pull Request IoT RabbitMQ Framework The only way to do great work is to love what you do. Quantum Computing
 Multi-threading DNS Routing Zero Downtime Deployment Code Review Serverless JWT Success is how high you bounce when you hit bottom.
 Load Testing Serverless DevOps Multi-threading Lambda Functions
+Lambda Functions API Gateway Event-driven Architecture CI/CD Testing Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst.
