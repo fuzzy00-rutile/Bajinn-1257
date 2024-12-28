@@ -3,3 +3,4 @@ Sharding If you can dream it, you can do it. DevOps Success usually comes to tho
 Deployment Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Message Queue Sharding Work hard in silence, let your success be your noise. Cloud Load Balancing Success is how high you bounce when you hit bottom. Artificial Intelligence API Gateway Big Data I find that the harder I work, the more luck I seem to have.
 API Gateway API Serverless Message Queue UX Optimization Database Do what you love and the money will follow. Data Pipeline Performance Event Sourcing Firewalls
 Database Load Balancing Python NLP GraphQL Act as if what you do makes a difference. It does.
+Monitoring Pull Request Kubernetes Neural Networks Dream big and dare to fail. Version Control Lambda Functions Predictive Analytics
