@@ -7,3 +7,4 @@ CI/CD Success doesn’t just find you. You have to go out and get it. Lambda Funct
 Firewalls RabbitMQ Container Orchestration Database Indexing Security Kafka API Gateway Lambda Functions Event-driven Architecture Data Science Work hard in silence, let your success be your noise. Testing
 Python I find that the harder I work, the more luck I seem to have. Blockchain WebSockets Lambda Functions Server Response Success usually comes to those who are too busy to be looking for it.
 The only way to do great work is to love what you do. Blockchain DevOps Logging To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Neural Networks Sharding Scalability Algorithm Load Balancing
+Testing Containerization Framework Neural Networks Replica Set Kafka UX Optimization DevOps
