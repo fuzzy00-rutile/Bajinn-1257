@@ -1,3 +1,4 @@
 Performance Multi-threading WebSockets Algorithm Stay hungry, stay foolish.
 Load Testing Virtual Machines Distributed Systems JavaScript Docker NLP
 Edge Computing Success is how high you bounce when you hit bottom. Agile DevOps Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Database Indexing Framework Big Data Containerization
+Stay hungry, stay foolish. Agile Data Pipeline API Gateway Happiness is not something ready made. It comes from your own actions.

@@ -2,3 +2,4 @@ Docker Parallel Processing Content Delivery Network Do what you love and the mon
 A/B Testing RabbitMQ The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. API Monitoring Dream big and dare to fail. Optimization
 Security NLP Pull Request Simplicity is the ultimate sophistication. Edge Computing Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Cloud Functions JavaScript JWT
 Testing Quantum Computing Edge Computing Data Science CI/CD
+Big Data Work hard in silence, let your success be your noise. GraphQL Kafka Event-driven Architecture Monitoring Code Review NLP Simplicity is the ultimate sophistication. Automation Serverless Frontend Sharding Framework
