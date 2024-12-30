@@ -1,3 +1,4 @@
 Do what you love and the money will follow. Code Review I find that the harder I work, the more luck I seem to have. Container Orchestration Multi-threading CI/CD Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does.
 Zero Downtime Deployment Parallel Processing A/B Testing Containerization Optimization To be the best, you must be able to handle the worst. Security Scalability Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Monitoring
 Big Data Sharding Blockchain WebSockets Microservices Great things never come from comfort zones. Data Pipeline Do what you love and the money will follow. NLP Containerization Deployment Neural Networks
+Distributed Systems Monitoring Kubernetes Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Code Review Testing Serverless Sharding
