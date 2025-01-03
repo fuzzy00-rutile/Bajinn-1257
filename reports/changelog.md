@@ -5,3 +5,4 @@ Act as if what you do makes a difference. It does. Event-driven Architecture JWT
 Machine Learning Automation Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Data Science Server Response Database Testing Frontend Version Control Difficult roads often lead to beautiful destinations. Docker Zero Downtime Deployment
 CI/CD Success doesn’t just find you. You have to go out and get it. Lambda Functions Code Review Parallel Processing
 Firewalls RabbitMQ Container Orchestration Database Indexing Security Kafka API Gateway Lambda Functions Event-driven Architecture Data Science Work hard in silence, let your success be your noise. Testing
+Python I find that the harder I work, the more luck I seem to have. Blockchain WebSockets Lambda Functions Server Response Success usually comes to those who are too busy to be looking for it.
