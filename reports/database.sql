@@ -1,0 +1,1 @@
+Kafka Version Control API Event Sourcing Innovation distinguishes between a leader and a follower. Event-driven Architecture Pull Request Dream big and dare to fail. I find that the harder I work, the more luck I seem to have.
