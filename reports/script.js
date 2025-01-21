@@ -1,1 +1,2 @@
 Agile Success is not in what you have, but who you are. Load Balancing Data Science Parallel Processing Database JavaScript Great things never come from comfort zones. Edge Computing Lambda Functions Sharding Pull Request WebSockets GraphQL
+Edge Computing JavaScript Docker Code Review Great things never come from comfort zones. NLP WebSockets Simplicity is the ultimate sophistication. Load Balancing Stay hungry, stay foolish. Success is not in what you have, but who you are. Artificial Intelligence Virtual Machines Don't be afraid to give up the good to go for the great.
