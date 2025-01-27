@@ -1,0 +1,1 @@
+To be the best, you must be able to handle the worst. Message Queue GraphQL Latency Optimization Performance Happiness is not something ready made. It comes from your own actions. Database Opportunities don't happen. You create them. DevOps Event-driven Architecture Version Control Stay hungry, stay foolish.
