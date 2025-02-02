@@ -3,3 +3,4 @@ Server Response NLP Performance Cloud Zero Downtime Deployment Dream big and dar
 Big Data Neural Networks Load Balancing Server Response Latency Optimization Virtual Machines Testing
 Act as if what you do makes a difference. It does. Event-driven Architecture JWT Code Review Parallel Processing Opportunities don't happen. You create them. Pull Request
 Machine Learning Automation Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Data Science Server Response Database Testing Frontend Version Control Difficult roads often lead to beautiful destinations. Docker Zero Downtime Deployment
+CI/CD Success doesn’t just find you. You have to go out and get it. Lambda Functions Code Review Parallel Processing
