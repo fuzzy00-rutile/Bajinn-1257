@@ -1,0 +1,1 @@
+Do what you love and the money will follow. Code Review I find that the harder I work, the more luck I seem to have. Container Orchestration Multi-threading CI/CD Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does.
